@@ -1,0 +1,22 @@
+{
+  "name": "valid-correct",
+  "version": "1.0.0",
+  "description": "A powerful and flexible form validation library with built-in error handling and correction suggestions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geek-prateek/valid-correct.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Prateek Kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/geek-prateek/valid-correct/issues"
+  },
+  "homepage": "https://github.com/geek-prateek/valid-correct#readme"
+}
