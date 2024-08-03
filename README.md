@@ -12,6 +12,7 @@ Install the package using npm:
 
 ```bash
 npm install valid-correct
+```
 
 ## Usage
 
@@ -21,6 +22,7 @@ To use **valid-correct** in your project, first import the `Validator` class:
 
 ```javascript
 const Validator = require('valid-correct');
+```
 
 ### Defining a Schema
 
@@ -61,6 +63,7 @@ if (Object.keys(errors).length > 0) {
 } else {
     console.log('Validation successful!');
 }
+```
 
 ### Example of Validation Errors
 
@@ -89,6 +92,7 @@ Here’s an example showing what the validation errors might look like when the 
         }
     ]
 }
+```
 
 ### Options
 
